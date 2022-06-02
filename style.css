@@ -1,0 +1,19 @@
+body  {
+    /*background:#19208a;*/
+	background: yellow;
+	font-family: 'Tangerine', cursive;
+	color:white;
+	
+}
+
+h1{
+	text-align:center;
+	color:white;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+img{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	-webkit-box-reflect: below 0px linear-gradient(to bott
