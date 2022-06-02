@@ -16,4 +16,16 @@ img{
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
-	-webkit-box-reflect: below 0px linear-gradient(to bott
+	-webkit-box-reflect: below 0px linear-gradient(to bottom,red,yellow) ;
+}
+
+	a{
+        color: yellow;
+	}
+	a:hover{
+	    color:black
+	}
+
+	a:visited{
+		color:forestgreen
+	}
